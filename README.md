@@ -12,13 +12,11 @@
 ##
 
 </div>
-<div align="center">
+<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&theme=rose_pine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
