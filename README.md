@@ -1,18 +1,20 @@
 <h1 align="center">Hi, I'm Cauê Souza, a Frontend Developer!</h1>
 <div align="center">
+<h3>
  👨💻 All of my projects are available at <a href="https://portfolio-caue-souza.vercel.app/">Portfolio</a>
  <br>
- 📫 How to reach me <b>souzacaue@proton.me</b>
-</div>
 
-<div align="center">
-<a href="https://linkedin.com/in/caue-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caue-souza" height="30" width="40" /></a>
-</p>
+📫 How to reach me <b>souzacaue@proton.me</b>
+
+<a href="https://linkedin.com/in/caue-souza" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caue-souza" height="30" width="40" />
+</a>
+</h3>
+</div>
 
 ##
 
-</div>
-<div>
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&theme=rose_pine)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
