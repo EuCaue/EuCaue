@@ -18,12 +18,25 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center"> <br>
   <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Caue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<h2 align="center">Recents Projects</h2>
+<div align="center">
+  <a href="https://github.com/EuCaue/url-shortening-api">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=url-shortening-api&theme=rose_pine" />
+  </a>
+  <a href="https://github.com/EuCaue/advice-generator-app">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=advice-generator-app&theme=rose_pine" />
+  </a>
+</div>
 
 ![Snake animation](https://github.com/eucaue/eucaue/blob/output/github-contribution-grid-snake.svg)
 
