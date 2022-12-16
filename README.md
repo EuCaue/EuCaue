@@ -15,9 +15,12 @@
 ##
 
 <div align="center">
+<a href="https://www.github.com/EuCaue">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&theme=rose_pine)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)
+
+</a>
 </div>
 
 <div style="display: inline_block" align="center"> <br>
