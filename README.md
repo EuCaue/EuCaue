@@ -1,20 +1,31 @@
-<h1 align="center">Hi 👋, I'm Cauê Souza</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Hi, I'm Cauê Souza, a Frontend Developer!</h1>
+<div align="center">
+ 👨💻 All of my projects are available at <a href="https://portfolio-caue-souza.vercel.app/">Portfolio</a>
+ <br>
+ 📫 How to reach me <b>souzacaue@proton.me</b>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://portofolio-caue-souza.vercel.app/](https://portofolio-caue-souza.vercel.app/)
-
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **souzacaue@proton.me**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
 <a href="https://linkedin.com/in/caue-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caue-souza" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eucaue&show_icons=true&locale=en&layout=compact" alt="eucaue" /></p>
+</div>
+<div align="center">
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&locale=en" alt="eucaue" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&theme=rose_pine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+##
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Caue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+![Snake animation](https://github.com/eucaue/eucaue/blob/output/github-contribution-grid-snake.svg)
+
