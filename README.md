@@ -28,8 +28,11 @@
   <img align="center" alt="Caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<h2 align="center">Recents Projects</h2>
+#
+
 <div align="center">
+<h3 align="center">Recents Projects</h2>
+
   <a href="https://github.com/EuCaue/url-shortening-api">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=url-shortening-api&theme=rose_pine" />
