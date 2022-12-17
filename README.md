@@ -6,7 +6,7 @@
 
 📫 How to reach me <b>souzacaue@proton.me</b>
 
-<a href="https://linkedin.com/in/caue-souza" target="blank">
+<a href="https://linkedin.com/in/caue-souza" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caue-souza" height="30" width="40" />
 </a>
 </h3>
@@ -15,7 +15,7 @@
 ##
 
 <div align="center">
-<a href="https://www.github.com/EuCaue">
+<a href="https://www.github.com/EuCaue" target="_blank">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&theme=rose_pine)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)
@@ -36,11 +36,11 @@
 <div align="center">
 <h3 align="center">Recents Projects</h2>
 
-  <a href="https://github.com/EuCaue/url-shortening-api">
+  <a href="https://github.com/EuCaue/url-shortening-api" target="_blank" >
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=url-shortening-api&theme=rose_pine" />
   </a>
-  <a href="https://github.com/EuCaue/advice-generator-app">
+  <a href="https://github.com/EuCaue/advice-generator-app" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=advice-generator-app&theme=rose_pine" />
   </a>
