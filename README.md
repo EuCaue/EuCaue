@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cauê Souza, a Frontend Developer!</h1>
 <div align="center">
 <h3>
- 👨💻 All of my projects are available at <a href="https://portfolio-caue-souza.vercel.app/">Portfolio</a>
+  💻 All of my projects are available at <a href="https://portfolio-caue-souza.vercel.app/">Portfolio</a>
  <br>
 
 📫 How to reach me <b>souzacaue@proton.me</b>
@@ -47,4 +47,3 @@
 </div>
 
 ![Snake animation](https://github.com/eucaue/eucaue/blob/output/github-contribution-grid-snake.svg)
-
