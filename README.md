@@ -17,8 +17,8 @@
 <div align="center">
 <a href="https://www.github.com/EuCaue" target="_blank">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=rose_pine&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eucaue&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eucaue&show_icons=true&theme=midnight-purple&layout=compact)
 
 </a>
 </div>
@@ -38,11 +38,11 @@
 
   <a href="https://github.com/EuCaue/url-shortening-api" target="_blank" >
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=url-shortening-api&theme=rose_pine" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=url-shortening-api&theme=midnight-purple" />
   </a>
   <a href="https://github.com/EuCaue/advice-generator-app" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=advice-generator-app&theme=rose_pine" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=advice-generator-app&theme=midnight-purple" />
   </a>
 </div>
 
