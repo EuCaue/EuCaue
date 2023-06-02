@@ -36,13 +36,13 @@
 <div align="center">
 <h3 align="center">Recents Projects</h2>
 
-  <a href="https://github.com/EuCaue/yaTODO" target="_blank" >
+  <a href="https://github.com/EuCaue/tip-calculator" target="_blank" >
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=yaTODO&theme=midnight-purple" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=tip-calculator&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/EuCaue/password-generator" target="_blank">
+  <a href="https://github.com/EuCaue/rating-component" target="_blank">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=password-generator&theme=midnight-purple" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=EuCaue&repo=rating-component&theme=midnight-purple" />
   </a>
 </div>
 
