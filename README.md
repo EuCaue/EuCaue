@@ -7,7 +7,7 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EuCaue/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/EuCaue)
 
-I'm Cauê (he/his) - I'm a fullstack developer, a high school student and open source enthusiast
+I'm Cauê (he/him) - I'm a fullstack developer, a high school student and open source enthusiast
 from Brazil 🇧🇷.
 
 Currently learning - **Data Structure and Algorithms & SvelteKit**
