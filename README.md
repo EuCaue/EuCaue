@@ -17,9 +17,3 @@ For see about my projects, **check my [Portfolio](https://www.eucaue.tech)**
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwindcss,react,svelte,git,github,c,go,rust,neovim,linux&perline=7)](https://skillicons.dev)
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
