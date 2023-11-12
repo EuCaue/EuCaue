@@ -9,7 +9,7 @@
 
 I'm Cauê (he/him) - I'm a fullstack developer, a high school student and an open source enthusiast from Brazil. 🇧🇷
 
-Currently learning - **Data Structure and Algorithms & SvelteKit**
+Currently learning - **Dart/Flutter**
 
 To see about my projects, **check my [Portfolio](https://www.eucaue.tech)**
 
