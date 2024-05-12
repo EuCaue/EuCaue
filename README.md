@@ -7,19 +7,26 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EuCaue/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/EuCaue)
 
-I'm Cauê Souza (he/him) - I'm a Fullstack Developer, a high school student and an open source enthusiast from Brazil. 🇧🇷
+I'm Cauê Souza (he/him) - I'm a Fullstack Developer
+and an open source enthusiast from Brazil. 🇧🇷
 
-I love exploring Linux & Neovim 🐧 and being a human in the coding world. 💻👨
+> I'm passionate about delving into Linux and Neovim,
+> exploring the coding world as a human. 👨‍💻
 
-- I’m currently working on improving my **programming skills.**
-- Currently learning - **Dart/Flutter** and **Web Technologies**
-- Ask me about **Web Development** or **TypeScript**
-- I’m **looking to collaborate** on exciting projects.
-- Fun Fact: I love to **code with my cats**. 🐈
+💡 I’m currently working on improving my **programming skills.**
 
-To see about my projects, **check my [Portfolio](https://www.eucaue.tech)**
+📚 Currently learning - **Dart/Flutter**/**GTK** and **Web Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwindcss,react,svelte,git,github,c,go,rust,neovim,linux&perline=7)](https://skillicons.dev)
+💬 Ask me about **Web Development** or **TypeScript**
+
+🤝 I'm actively **seeking collaboration opportunities** on projects.
+Let's create **something impactful together**!
+
+🐈 Fun Fact: I enjoy **coding with my cats**.
+
+🌐 To explore my projects, visit my [Portfolio](https://www.eucaue.tech/en).
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,svelte,go,rust,gtk,flutter,dart,electron,git,github,linux,neovim,bash&perline=7)](https://skillicons.dev)
 
 ---
 
