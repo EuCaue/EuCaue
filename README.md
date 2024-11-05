@@ -24,9 +24,7 @@ Let's create **something impactful together**!
 
 🐈 Fun Fact: I enjoy **coding with my cats**.
 
-🌐 To explore my projects, visit my [Portfolio](https://www.eucaue.tech/en).
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,svelte,go,rust,gtk,flutter,dart,electron,git,github,linux,neovim,bash&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,angular,python,svelte,go,rust,gtk,flutter,dart,electron,git,github,linux,neovim,bash&perline=7)](https://skillicons.dev)
 
 ---
 
