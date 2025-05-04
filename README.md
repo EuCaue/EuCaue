@@ -1,43 +1,42 @@
-# Hello There! 👏
+# Hello there! 👋
 
 ## ![Header](./header.png)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/caue-souza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caue-souza/)
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:souzacaue@proton.me)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EuCaue/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/EuCaue/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/EuCaue)
-
-I'm Cauê Souza (he/him) - I'm a Fullstack Developer
-and an open source enthusiast from Brazil. 🇧🇷
-
-> I'm passionate about delving into Linux and Neovim,
-> exploring the coding world as a human. 👨‍💻
-
-💡 I’m currently working on improving my **programming skills.**
-
-📚 Currently learning - **Dart/Flutter**/**GTK** and **Web Technologies**
-
-💬 Ask me about **Web Development** or **TypeScript**
-
-🤝 I'm actively **seeking collaboration opportunities** on projects.
-Let's create **something impactful together**!
-
-🐈 Fun Fact: I enjoy **coding with my cats**.
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs,angular,python,svelte,go,rust,gtk,flutter,dart,electron,git,github,linux,neovim,bash&perline=7)](https://skillicons.dev)
 
 ---
 
-<center>
-    <code>
-        <small>commit history</small>
-    </code>
-</center>
+I'm **Cauê Souza** (he/him) — a passionate **Fullstack Developer** and open-source enthusiast from Brazil 🇧🇷
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eucaue/eucaue/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eucaue/eucaue/output/github-contribution-grid-snake.svg">
- <img alt="snake commits" src="https://raw.githubusercontent.com/eucaue/eucaue/output/github-contribution-grid-snake-dark.svg">
-</picture>
+> I dive deep into the world of **Linux** and **Neovim**,  
+> constantly evolving as a developer and human 👨‍💻
+
+### 💡 What I'm up to:
+- 🧠 Currently exploring **GTK** and modern **Web Technologies**
+- 🔧 Tinkering with developer tools and productivity setups
+- 💬 Happy to chat about **TypeScript**, **frontend ecosystems**, and building accessible UIs
+
+### 🤝 Let's Collaborate!
+I'm open to teaming up on meaningful projects —  
+let's build something that matters 🤝✨
+
+### 😺 Fun Fact:
+I often code with my cats by my side 🐾
+
+---
+
+### 🧰 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,angular,python,svelte,go,rust,gtk,electron,git,github,linux,neovim,bash&perline=7)](https://skillicons.dev)
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img alt="Snake animation of my commits" src="https://raw.githubusercontent.com/eucaue/eucaue/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
