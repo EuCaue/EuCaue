@@ -7,7 +7,7 @@ For me, coding is about solving real-world problems with clean and practical sol
 
 **Tech stack:** JavaScript, TypeScript, React, Next.js, Angular, Python, GTK, Linux, Neovim.
 
-I learn by doing — testing ideas, building side projects, and sharing with the dev community.  
+I learn by doing, testing ideas, building side projects, and sharing with the dev community.  
 I love contributing to open source and enjoy reading whenever I can.  
 
 When I'm not coding, I enjoy solving challenges, tweaking my Linux setup, or experimenting with design ideas.
