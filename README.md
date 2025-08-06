@@ -13,7 +13,7 @@ When I’m not coding, you’ll probably find me tackling challenges, tweaking m
 **Fun facts:**
 
 - I keep it simple: water only, no coffee or tea.
-- I keep it simple: water only, no coffee or tea.
+- I probably like triangles more than I should.
 - [Neovim](https://neovim.io/) is my editor of choice.
 
 Feel free to hit me up on [LinkedIn](https://www.linkedin.com/in/caue-souza/) or shoot me an [email](mailto:souzacaue@proton.me).
