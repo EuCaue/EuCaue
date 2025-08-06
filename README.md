@@ -1,20 +1,19 @@
-### Hi there! 👋
+### Hey there! 👋
 
-I'm [**Cauê Souza**](https://eucaue.site), a fullstack developer based in Brazil.
+I’m [**Cauê Souza**](https://eucaue.site), a fullstack dev from Brazil.
 
-I love building fast, simple interfaces that feel good to use.  
-For me, coding is about solving real-world problems with clean and practical solutions.
+I like building fast, simple interfaces that are actually fun to use. To me, coding’s all about solving real problems with clean, practical solutions.
 
-**Tech stack:** JavaScript, TypeScript, React, Next.js, Angular, Python, GTK, Linux, Neovim.
+I learn by doing stuff, testing ideas, working on side projects, and chatting with the dev community. I’m also big on open source and love reading whenever I get the chance.
 
-I learn by doing, testing ideas, building side projects, and sharing with the dev community.  
-I love contributing to open source and enjoy reading whenever I can.  
+When I’m not coding, you’ll probably find me tackling challenges, tweaking my Linux setup, or messing around with design ideas.
 
-When I'm not coding, I enjoy solving challenges, tweaking my Linux setup, or experimenting with design ideas.
+**Tech I use:** JavaScript, TypeScript, React, Next.js, Angular, Python, GTK, Linux, Neovim.
 
-**Fun facts:**  
-- I run on water, not coffee or tea.  
-- I love triangles △.  
-- I’m a big fan of Neovim.
+**Fun facts:**
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/caue-souza/) or [Email](mailto:souzacaue@proton.me).
+- I keep it simple: water only, no coffee or tea.
+- I keep it simple: water only, no coffee or tea.
+- [Neovim](https://neovim.io/) is my editor of choice.
+
+Feel free to hit me up on [LinkedIn](https://www.linkedin.com/in/caue-souza/) or shoot me an [email](mailto:souzacaue@proton.me).
